@@ -9,6 +9,6 @@ Custom Reinforcement Learning agent for a simplified Pacman maze built with pyga
 ### Technologies
 Python • NumPy • Pygame • Matplotlib (win-rate plot)
 
-**Result:** The agent learns to win consistently after ~7,000 episodes (win rate rises from 0 % to >60 %).
+**Result:** The agent learns to win consistently after ~7,000 episodes (win rate rises from 0 % to >76 %).
 
 Full code + training visualization available in the repository.
