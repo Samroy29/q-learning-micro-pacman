@@ -10,11 +10,22 @@ The agent is trained using **Q-Learning**, a model-free reinforcement learning a
 
 # 🎥 Demo
 
-## Training Result
+## RESULT
+
+## PRE TRAINING Results
 
 
 
-https://github.com/user-attachments/assets/dea5f0f1-dc62-4557-aa0a-ace5e1cf330c
+
+https://github.com/user-attachments/assets/019a350b-c221-4038-89c2-1d5b1577f3db
+
+
+## POST TRAINING RESULTS 
+
+
+
+https://github.com/user-attachments/assets/916bd62a-34df-44ee-8a07-a70f37144689
+
 
 
 
